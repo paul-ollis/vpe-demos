@@ -24,7 +24,7 @@ Introduction
 This directory tree contains various demonstrations of how you can use VPE. All
 of the code in here has undergone some far-from-vigorous testing.
 
-The point of the code here is to provide code that you can run and experiment
+The point of the code here is to provide stuff that you can run and experiment
 with as a way to get familiar with the VPE library. Some of the things the
 examples aim for are:
 
@@ -72,9 +72,7 @@ utilities
     Currently this just contains a simple buffer switcher.
 
 toys
-    Scripts that are basically toys.
-
-    Currently this just contains a Tower of Hanoi animation.
+    Scripts that are basically toys. See toys/README.rst for more details.
 
 align
     This provides an example that is structured as a VPE managed plugin.
